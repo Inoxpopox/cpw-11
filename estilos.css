@@ -113,3 +113,12 @@ footer {
     border-radius: 10px;
     text-align: center;
 }
+
+.cartao {
+    background-color: #2b3548;
+    color: #e4e8f0;
+    padding: 20px;
+    border: 2px solid #59b8ff;
+    margin-bottom: 16px;
+    border-radius: 12px;
+}
