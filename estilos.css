@@ -119,6 +119,20 @@ footer {
     color: #e4e8f0;
     padding: 20px;
     border: 2px solid #59b8ff;
-    margin-bottom: 16px;
+    margin-bottom: 0;
     border-radius: 12px;
+    flex: 1 1 220px;
+}
+
+.lista-atividades {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+.lista-atividades + img {
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
 }
